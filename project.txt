@@ -1,2 +1,5 @@
 It really doesn't matter what text you type, just add some text to that text file.
-OH NO LINES DELETED!!
+Important to end with one empty line.
+Adding a few lines with important information.
+
+We will still need a data scientist to help with implementation of PCA and visualiation.
